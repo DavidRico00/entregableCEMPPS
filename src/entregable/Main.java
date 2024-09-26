@@ -11,6 +11,8 @@ public class Main {
 		System.out.println("Escribo 3 en rama 1");
 		
 		System.out.println("Escribo 6 en rama 3");
+		
+		System.out.println("Escribo 7 en rama 3");
 
 	}
 
