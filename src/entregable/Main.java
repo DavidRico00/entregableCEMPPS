@@ -13,6 +13,8 @@ public class Main {
 		System.out.println("Escribo 5 en rama 2");
 		
 		System.out.println("Escribo 8 en rama 2");
+		
+		System.out.println("Escribo 10 en rama 2");
 
 	}
 
